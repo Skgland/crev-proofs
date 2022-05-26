@@ -1,0 +1,16 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-05-26T13:49:27.699504461+02:00"
+from:
+  id-type: crev
+  id: vnNJ2O0dJWJTH7SWjrbiqP4ANIH5v9ZFGSJ7uilqPtU
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: high
+----- SIGN CREV PROOF -----
+V2PNROQyNrz3RzAcpLVWL2cNqJ0DoU00aGTOQMhK_ycqfi2agqYCCKP1FkywBwTTCRXoSflhONnprtrQyhboCg
+----- END CREV PROOF -----
+
