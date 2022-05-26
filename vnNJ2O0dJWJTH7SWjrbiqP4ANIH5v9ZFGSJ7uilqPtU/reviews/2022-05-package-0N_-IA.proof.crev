@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-05-26T14:30:16.617999758+02:00"
+from:
+  id-type: crev
+  id: vnNJ2O0dJWJTH7SWjrbiqP4ANIH5v9ZFGSJ7uilqPtU
+  url: "https://github.com/Skgland/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: pretty_env_logger
+  version: 0.4.0
+  revision: fa4e28537f153a20e655349556ec982e3657a848
+  digest: a2vGFg6amxlGK1HqZAykA6i6uleE-DLzYNK2vIdPPE0
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Nothing to note. Encountered nothing unexpected.
+----- SIGN CREV PROOF -----
+yIWaUorEl6OvfQlj-GZrg8LI9OAjQHuLbLHiqStYSCj8UsSvz90yzMxXjEEQfCFIAWoDD6xyI649AJB5QJGeBg
+----- END CREV PROOF -----
+
